@@ -1,0 +1,36 @@
+
+.Login_web{
+    width:360px;
+    margin:0 auto;
+    position: fixed;/*固定在屏幕正中间*/
+    top: 50%;
+    left: 50%;
+    margin-top: -180px;/*高的一半*/
+    margin-left: -180px;/*宽的一半*/
+    /* border:1px solid #ccc; */
+    padding:20px;
+}
+.Login_img_wab{
+    width:100%;
+    margin-bottom: 15px;
+}
+img{
+    width:120px;
+}
+.MenuLogoText{
+    color:#fff;
+    margin-left:5px;
+    margin-top:5px;
+}
+.MenuLogoText a{
+    font-size: 25px;
+}
+.login-form {
+    max-width: 360px;
+  }
+ .login-form-forgot {
+    float: right;
+  }
+.login-form-button {
+    width: 100%;
+  }
